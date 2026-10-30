@@ -1,0 +1,16 @@
+{
+  "researchAwards": [
+    { "year": "2026", "title": "陕西省科学技术进步奖三等奖", "organization": "陕西省人民政府" },
+    { "year": "2017", "title": "国家留学基金委博士联合培养奖学金", "organization": "CSC" },
+    { "year": "2016", "title": "AVEC2016 抑郁症检测竞赛冠军", "organization": "ACM MM" },
+    { "year": "2015", "title": "AVEC2015 连续情感识别竞赛冠军", "organization": "ACM MM" },
+    { "year": "2015", "title": "ACII 最佳论文提名", "organization": "IEEE ACII" }
+  ],
+  "studentAwards": [
+    { "year": "2026", "title": "中国大学生计算机设计大赛国家三等奖", "organization": "指导教师" },
+    { "year": "2026", "title": "中国大学生计算机设计大赛西北赛区一等奖（两项）", "organization": "指导教师" },
+    { "year": "2025", "title": "中国研究生数学建模竞赛国家三等奖", "organization": "指导教师" },
+    { "year": "2025", "title": "中国大学生计算机设计大赛西北赛区二等奖", "organization": "指导教师" },
+    { "year": "2024", "title": "中国研究生数学建模竞赛国家三等奖", "organization": "指导教师" }
+  ]
+}
