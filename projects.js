@@ -1,0 +1,2 @@
+window.siteData=window.siteData||{};
+window.siteData.projects=[{"period":"2023—2025","title":"三维人脸先验与数据联合驱动的自然场景下面部情感分析研究","role":"主持","funding":"国家自然科学基金青年项目"},{"period":"2022—2023","title":"基于视觉连续情感分析的公共交通工具驾驶员实时情绪行为检测","role":"主持","funding":"陕西省自然科学基础研究计划"},{"period":"2024—2027","title":"异构多模态信息融合的青少年抑郁症识别与跟踪研究","role":"参与","funding":"国家自然科学基金面上项目"}];
