@@ -2,7 +2,7 @@
   "publications": [
     { "year": "2026", "title": "LLM-driven fine-grained emotion parsing and parameterized mapping for conversational TTS", "venue": "Pattern Recognition（中科院分区三区）", "note": "第四作者" },
     { "year": "2026", "title": "Mambaer: Mamba with knowledge-learning hierarchical attention for facial expression recognition", "venue": "Multimedia Systems（中科院分区三区）", "note": "第一作者" },
-    { "year": "2025", "title": "A hidden stumbling block in generalized category discovery: Distracted attention", "venue": "International Conference on Computer Vision (ICCV，CCF-A)", "note": "第四作者" },
+    { "year": "2025", "title": "A hidden stumbling block in generalized category discovery: Distracted attention", "venue": "International Conference on Computer Vision (ICCV, CCF-A)", "note": "第四作者" },
     { "year": "2025", "title": "Multi-Modal Prompt Learning for Facial Expression Recognition: Leveraging Emojis and Large Language Models", "venue": "Information Fusion（中科院分区一区）", "note": "第一作者" },
     { "year": "2025", "title": "Classifier ensemble based source-free domain adaptation for time series classification", "venue": "Knowledge-Based Systems（中科院分区一区）", "note": "第一作者" },
     { "year": "2025", "title": "LMVD: A large-scale multimodal vlog dataset for depression detection in the wild", "venue": "Information Fusion（中科院分区一区）", "note": "第五作者" },
