@@ -15,7 +15,13 @@
 <section class="section"><div class="section-head"><h2>科研项目</h2><span>SELECTED PROJECTS</span></div><div class="list" id="projects-list"><p class="data-status">正在加载科研项目…</p></div></section>
 <section class="section" id="publications"><div class="section-head"><h2>代表性论文</h2><span>SELECTED PUBLICATIONS</span></div><div class="list" id="publications-list"><p class="data-status">正在加载代表性论文…</p></div></section>
 <section class="section"><div class="section-head"><h2>荣誉与指导</h2><span>AWARDS</span></div><div class="grid"><article class="card"><h3>科研奖励</h3><div class="list compact" id="research-awards-list"><p class="data-status">正在加载科研奖励…</p></div></article><article class="card"><h3>学生竞赛指导</h3><div class="list compact" id="student-awards-list"><p class="data-status">正在加载指导成果…</p></div></article></div></section>
-<section class="section" id="contact"><div class="section-head"><h2>联系</h2><span>GET IN TOUCH</span></div><div class="contact"><div><strong>欢迎对机器学习、深度学习、计算机视觉、情感计算等方向感兴趣，</strong><p><strong>学习态度端正、认真、勤奋的同学报考。</strong></p></div><div><a href="mailto:ercheng.pei@xupt.edu.cn">ercheng.pei@xupt.edu.cn</a><p><a href="https://peiercheng.github.io">peiercheng.github.io ↗</a></p></div></div></section></main><footer class="wrap footer">© 裴二成 · 西安邮电大学计算机学院</footer><script>
+<section class="section" id="contact">
+  <div class="section-head">
+    <h2>联系</h2>
+    <span>GET IN TOUCH</span></div><div class="contact">
+      <div><strong>欢迎对机器学习、深度学习、计算机视觉、情感计算等方向感兴趣，学习态度端正、认真、勤奋的同学报考。</strong>
+      </div><div><a href="mailto:ercheng.pei@xupt.edu.cn">ercheng.pei@xupt.edu.cn</a><p>
+      </div></div></section></main><footer class="wrap footer">© 裴二成 · 西安邮电大学计算机学院</footer><script>
 // 更新项目、论文和荣誉时，编辑同目录下的 projects.json、publications.json、honors.json 即可。
 const escapeHTML = value => String(value ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 function renderList(id, rows, getFields) {
